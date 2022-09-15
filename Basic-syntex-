@@ -1,0 +1,7 @@
+this is the basic syntex of java.
+
+public class main{
+    public static void main(String[]args){
+    //body
+    }
+}    
